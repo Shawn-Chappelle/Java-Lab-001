@@ -1,5 +1,6 @@
 public class HelloYoda {
     /**
+     * Shawn Chappelle 8/24/2022
      * Returns a String containing a Yoda ASCII art and quote.
      *
      * @return Yoda Face and Quote as a String.
@@ -14,5 +15,6 @@ public class HelloYoda {
     }
 
     public static void main(String[] args) {
+        System.out.println(yoda());
     }
 }
